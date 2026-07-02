@@ -1,0 +1,3 @@
+Text = input("Text:")
+Position = Text.find(".")
+print(Text[:Position + 1 ])
